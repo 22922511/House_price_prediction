@@ -120,7 +120,9 @@ Scikit-learn
 
 Pandas & NumPy
 
-Pydantic (v2)
+Pydantic (v2)  
+### Visual  
+
 
 <img width="1122" height="1063" alt="image" src="https://github.com/user-attachments/assets/52e0f015-140d-4cff-b27c-bf35c2b553af" />
 
