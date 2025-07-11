@@ -26,17 +26,6 @@ This project demonstrates a complete end-to-end ML pipeline:
 
 
 ## 📁 Project Structure
+<img width="600" height="867" alt="image" src="https://github.com/user-attachments/assets/871fc08f-49c1-4539-a355-734160c38c16" />
 
-House_price_prediction/
-├── App/ # FastAPI backend
-│ └── main.py
-├── Model/
-│ └── House_price_prediction_model.pkl
-├── columns_name/
-│ └── columns_name.json
-├── frontend/
-│ └── app.py # Streamlit UI
-├── requirements.txt
-├── README.md
-└── .gitignore
 
