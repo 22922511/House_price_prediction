@@ -45,16 +45,17 @@ This project demonstrates a complete end-to-end ML pipeline:
 ```bash
 git clone https://github.com/<your-username>/House_price_prediction.git
 cd House_price_prediction
-
+---
 🐍 Step 2: Create & Activate Virtual Environment
 python -m venv venv
 venv\Scripts\activate      # Windows
 # or
 source venv/bin/activate   # macOS/Linux
+---
 📚 Step 3: Install Dependencies
 pip install -r requirements.txt
 
-
+---
 🔁 How to Run
 🧠 Start FastAPI Backend
 cd App
