@@ -76,34 +76,35 @@ uvicorn main:app --reload
 cd frontend
 streamlit run app.py
 ```
- Your Streamlit app will be available at:
+Your Streamlit app will be available at:  
+
 http://localhost:8501
 ---
 🔗 API Endpoint
 POST /predict
 Request:  
 
-{  
+    {  
 
-    "total_sqft": 1600,  
+      "total_sqft": 1600,  
   
-    "bath": 2,  
+      "bath": 2,  
   
-    "BHK": 3,  
+      "BHK": 3,  
   
-    "location": "whitefield",  
+      "location": "whitefield",  
   
-}  
+    }  
 
 
 ---
 Response:  
 
-{  
+    {  
 
-  "predicted_category": 74.51  
+      "predicted_category": 74.51  
   
-}  
+    }  
 
 ---
 ### 🛠 Tech Stack
