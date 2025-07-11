@@ -42,30 +42,38 @@ This project demonstrates a complete end-to-end ML pipeline:
 ## ⚙️ Installation & Setup
 
 ### 📦 Step 1: Clone the Repository
-bash
-```git clone https://github.com/<your-username>/House_price_prediction.git```
-```cd House_price_prediction```
+```bash
+git clone https://github.com/<your-username>/House_price_prediction.git```
+cd House_price_prediction
+```
+
 ---
 🐍 Step 2: Create & Activate Virtual Environment
-python -m venv venv
+```python -m venv myvenv
 venv\Scripts\activate      # Windows
 # or
 source venv/bin/activate   # macOS/Linux
+```
 ---
 📚 Step 3: Install Dependencies
+```
 pip install -r requirements.txt
-
+```
 ---
 🔁 How to Run
 🧠 Start FastAPI Backend
+```
 cd App
 uvicorn main:app --reload
+```
 → Accessible at: http://127.0.0.1:8000
 → Swagger docs at: http://127.0.0.1:8000/docs
 
 🌐 Start Streamlit Frontend
+```
 cd frontend
 streamlit run app.py
+```
  Your Streamlit app will be available at:
 
 http://localhost:8501
