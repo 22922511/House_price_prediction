@@ -25,6 +25,7 @@ This project demonstrates a complete end-to-end ML pipeline:
 - **Algorithm:** Linear Regression
 - **Dataset Size:** ~13,000 entries
 - **Accuracy (R² score):**
+  
      version_1  75%
   
      version_2  80%
