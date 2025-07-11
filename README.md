@@ -75,8 +75,8 @@ cd frontend
 streamlit run app.py
 ```
  Your Streamlit app will be available at:
-
 http://localhost:8501
+---
 🔗 API Endpoint
 POST /predict
 Request:
@@ -87,11 +87,12 @@ Request:
   "location": "whitefield",
 }
 
-
+---
 Response:
 {
   "predicted_category": 74.51
 }
+---
 🛠 Tech Stack
 Python 3.10+
 
