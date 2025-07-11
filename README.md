@@ -48,20 +48,20 @@ cd House_price_prediction
 ```
 
 ---
-🐍 Step 2: Create & Activate Virtual Environment
+### 🐍 Step 2: Create & Activate Virtual Environment
 ```python -m venv myvenv
 venv\Scripts\activate      # Windows
 # or
 source venv/bin/activate   # macOS/Linux
 ```
 ---
-📚 Step 3: Install Dependencies
+### 📚 Step 3: Install Dependencies
 ```
 pip install -r requirements.txt
 ```
 ---
-🔁 How to Run
-🧠 Start FastAPI Backend
+### 🔁 How to Run
+## 🧠 Start FastAPI Backend
 ```
 cd App
 uvicorn main:app --reload
@@ -81,16 +81,17 @@ http://localhost:8501
 ---
 🔗 API Endpoint
 POST /predict
-Request:
+Request:  
+
 {  
 
-  "total_sqft": 1600,  
+    "total_sqft": 1600,  
   
-  "bath": 2,  
+    "bath": 2,  
   
-  "BHK": 3,  
+    "BHK": 3,  
   
-  "location": "whitefield",  
+    "location": "whitefield",  
   
 }  
 
@@ -105,7 +106,7 @@ Response:
 }  
 
 ---
-🛠 Tech Stack
+### 🛠 Tech Stack
 Python 3.10.6  
 
 
