@@ -26,7 +26,7 @@ This project demonstrates a complete end-to-end ML pipeline:
 
 
 ## 📁 Project Structure
-<img width="600" height="867" alt="image" src="https://github.com/user-attachments/assets/871fc08f-49c1-4539-a355-734160c38c16" />
-<img width="267" height="596" alt="image" src="https://github.com/user-attachments/assets/c77194d5-529f-4c7d-aa92-b03d4bca244f" />
+
+<img width="300" height="596" alt="image" src="https://github.com/user-attachments/assets/c77194d5-529f-4c7d-aa92-b03d4bca244f" />
 
 
