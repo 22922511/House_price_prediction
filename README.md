@@ -11,7 +11,7 @@ This project demonstrates a complete end-to-end ML pipeline:
 - **Backend API:** Built with FastAPI to serve predictions.
 - **Frontend UI:** Streamlit app for an interactive user experience.
 - **Deployment Ready:** Backend and frontend can be deployed independently (e.g., Heroku, EC2, or Streamlit Cloud).
-- 
+  
 ## 🚀 Features
 
 ✅ End-to-End ML Pipeline  
@@ -42,7 +42,7 @@ This project demonstrates a complete end-to-end ML pipeline:
 ## ⚙️ Installation & Setup
 
 ### 📦 Step 1: Clone the Repository
-```bash
+bash
 git clone https://github.com/<your-username>/House_price_prediction.git
 cd House_price_prediction
 ---
