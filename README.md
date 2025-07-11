@@ -66,8 +66,10 @@ pip install -r requirements.txt
 cd App
 uvicorn main:app --reload
 ```
-→ Accessible at: http://127.0.0.1:8000
-→ Swagger docs at: http://127.0.0.1:8000/docs
+→ Accessible at: http://127.0.0.1:8000  
+
+→ Swagger docs at: http://127.0.0.1:8000/docs  
+
 
 🌐 Start Streamlit Frontend
 ```
@@ -80,23 +82,35 @@ http://localhost:8501
 🔗 API Endpoint
 POST /predict
 Request:
-{
-  "total_sqft": 1600,
-  "bath": 2,
-  "BHK": 3
-  "location": "whitefield",
-}
+{  
+
+  "total_sqft": 1600,  
+  
+  "bath": 2,  
+  
+  "BHK": 3,  
+  
+  "location": "whitefield",  
+  
+}  
+
 
 ---
-Response:
-{
-  "predicted_category": 74.51
-}
+Response:  
+
+{  
+
+  "predicted_category": 74.51  
+  
+}  
+
 ---
 🛠 Tech Stack
-Python 3.10+
+Python 3.10.6  
 
-FastAPI + Uvicorn
+
+FastAPI + Uvicorn  
+
 
 Streamlit
 
