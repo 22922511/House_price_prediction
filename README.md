@@ -129,5 +129,6 @@ Pydantic (v2)
 ### Visual  
 
 
-<img width="1122" height="1063" alt="image" src="https://github.com/user-attachments/assets/52e0f015-140d-4cff-b27c-bf35c2b553af" />
+<img width="998" height="1065" alt="image" src="https://github.com/user-attachments/assets/41471ce8-fc10-4044-b5e2-023ba15b4b98" />
+
 
