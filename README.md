@@ -43,8 +43,8 @@ This project demonstrates a complete end-to-end ML pipeline:
 
 ### 📦 Step 1: Clone the Repository
 bash
-git clone https://github.com/<your-username>/House_price_prediction.git
-cd House_price_prediction
+```git clone https://github.com/<your-username>/House_price_prediction.git```
+```cd House_price_prediction```
 ---
 🐍 Step 2: Create & Activate Virtual Environment
 python -m venv venv
