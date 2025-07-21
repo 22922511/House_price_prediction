@@ -30,7 +30,7 @@ This project demonstrates a complete end-to-end ML pipeline:
   
      version_2  80%
 
-    version_2  94%
+    version_3  94%(For model 3 i added a new feature that is price_per_sqft) 
   
 - **Key Features:**
   - `location` (Categorical)
