@@ -29,6 +29,8 @@ This project demonstrates a complete end-to-end ML pipeline:
      version_1  75%
   
      version_2  80%
+
+    version_2  94%
   
 - **Key Features:**
   - `location` (Categorical)
